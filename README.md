@@ -1,6 +1,11 @@
+<div align="center">
+  <h1>Join: <a href="https://t.me/realcodecrafters">CodeCrafters</a></h1>
+  <h1>⚠️This project is no longer maintained⚠️</h1>
+</div>
+
 <h1 align="center">
   <img alt="cgapp logo" src="https://i.ibb.co/m9MGMMn/ezgif-2-280931415e.jpg" width="224px"/><br/>
-  ⭐️ <a href="https://raw.githubusercontent.com/sabbiriptv/JIO_IPTV/main/JIO.m3u">JIO IPTV</a> ⭐️
+  ⭐️ <a href="https://raw.githubusercontent.com/sabbiriptv/JIO_IPTV/main/JIO.m3u">JIO</a> ⭐️
 </h1>
 <p align="center">An <a href="https://raw.githubusercontent.com/sabbiriptv/JIO_IPTV/main/JIO.m3u">M3U</a> File Containing <b>Free</b> Streamable Links</p>
 
@@ -37,9 +42,9 @@
 - [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) - Free and open-source portable cross-platform media player.
 
 # 📘 Note:
-🚨 I Have An Exam Soon, Wish Me Best Of Luck 💗
+🚨 This project is no longer maintained
 
 # 💛 Contact Me:
-<a href="mailto:sabbirhasan10000bd@gmail.com"><img src="https://img.shields.io/badge/Email-sabbirhasan10000bd@gmail.com-teal?style=for-the-badge&logo=gmail" /></a>
-<h2 align="center">DM Me On Discord: SabbirHasan#6976</h2>
-<h2 align="center">DM Me On Telegram: https://t.me/abuwahabis</h2>
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sab_bits)
+[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/603268462940389401)
+[![email](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sabbits@proton.me)
