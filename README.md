@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Join: <a href="https://t.me/realcodecrafters">CodeCrafters</a></h1>
-  <h1>⚠️This project is no longer maintained⚠️</h1>
+  <h1>⚠️ This project is no longer maintained ⚠️</h1>
 </div>
 
 <h1 align="center">
